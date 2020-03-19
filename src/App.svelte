@@ -55,7 +55,7 @@
         Aiden
       </p>
 			<form on:submit|preventDefault={handleAddP1Score}>
-				<input bind:this={p1ScoreInput} bind:value={p1HandScore} type="text" placeholder="Aiden's Score" class="text-center text-xl w-full block bg-gray-900 text-white rounded p-3 font-sans font-thin" />
+				<input bind:this={p1ScoreInput} bind:value={p1HandScore} type="number" placeholder="Aiden's Score" class="text-center text-xl w-full block bg-gray-900 text-white rounded p-3 font-sans font-thin" />
 			</form>
 			<p class="text-center font-sans font-light text-white opacity-75 my-3 text-base">Hands Played: {p1Hand}</p>
 			<div class="bg-gray-900 flex flex-col justify-center items-center rounded p-5">
@@ -66,7 +66,7 @@
     <div class="flex-1 mx-3">
       <p class="font-sans font-light uppercase text-white text-center text-lg mb-3">Dad</p>
 			<form on:submit|preventDefault={handleAddP2Score}>
-				<input bind:this={p2ScoreInput} bind:value={p2HandScore} type="text" placeholder="Dad's Score" class="text-center text-xl w-full block bg-gray-900 text-white rounded p-3 font-sans font-thin" />
+				<input bind:this={p2ScoreInput} bind:value={p2HandScore} type="number" placeholder="Dad's Score" class="text-center text-xl w-full block bg-gray-900 text-white rounded p-3 font-sans font-thin" />
 			</form>
 			<p class="text-center font-sans font-light text-white opacity-75 my-3 text-base">Hands Played: {p2Hand}</p>
 			<div class="bg-gray-900 flex flex-col justify-center items-center rounded p-5">
