@@ -36,6 +36,7 @@
     $p2Total = 0;
     $p1Hand = 0;
     $p2Hand = 0;
+    p1ScoreInput.focus();
   };
 
   $: p1TotalScore = $p1Total;
