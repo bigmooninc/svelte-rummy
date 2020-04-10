@@ -5,6 +5,8 @@
 
   p1Total.useLocalStorage();
   p2Total.useLocalStorage();
+  p1Hand.useLocalStorage();
+  p2Hand.useLocalStorage();
 
   // let p1Total = 0;
   // let p2Total = 0;
