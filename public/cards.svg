@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="101.632" height="86.986" viewBox="0 0 101.632 86.986">
+  <defs>
+    <path id="path-1" fill-rule="evenodd" d="M40.81596932 7.99288162h46c1.65574508 0 3 1.34425492 3 3v64c0 1.65574507-1.34425492 3-3 3h-46c-1.65574507 0-3-1.34425493-3-3v-64c0-1.65574508 1.34425493-3 3-3z"/>
+    <filter id="filter-2" width="200%" height="200%" x="-50%" y="-50%" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0" in="SourceAlpha" result="shadow-1-feOffset-shadow"/>
+      <feGaussianBlur in="shadow-1-feOffset-shadow" result="shadow-1-feGaussianBlur-shadow" stdDeviation=".602"/>
+      <feColorMatrix in="shadow-1-feGaussianBlur-shadow" result="shadow-1-feColorMatrix-shadow" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.5 0"/>
+    </filter>
+    <path id="path-4" fill-rule="evenodd" d="M32.07162696 5.90771824h46c1.65574508 0 3 1.34425492 3 3v64c0 1.65574507-1.34425492 3-3 3h-46c-1.65574507 0-3-1.34425493-3-3v-64c0-1.65574508 1.34425493-3 3-3z"/>
+    <filter id="filter-5" width="200%" height="200%" x="-50%" y="-50%" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0" in="SourceAlpha" result="shadow-1-feOffset-shadow"/>
+      <feGaussianBlur in="shadow-1-feOffset-shadow" result="shadow-1-feGaussianBlur-shadow" stdDeviation=".602"/>
+      <feColorMatrix in="shadow-1-feGaussianBlur-shadow" result="shadow-1-feColorMatrix-shadow" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.5 0"/>
+    </filter>
+    <path id="path-7" fill-rule="evenodd" d="M23.07162696 5.90771824h46c1.65574508 0 3 1.34425492 3 3v64c0 1.65574507-1.34425492 3-3 3h-46c-1.65574507 0-3-1.34425493-3-3v-64c0-1.65574508 1.34425493-3 3-3z"/>
+    <filter id="filter-8" width="200%" height="200%" x="-50%" y="-50%" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0" in="SourceAlpha" result="shadow-1-feOffset-shadow"/>
+      <feGaussianBlur in="shadow-1-feOffset-shadow" result="shadow-1-feGaussianBlur-shadow" stdDeviation=".602"/>
+      <feColorMatrix in="shadow-1-feGaussianBlur-shadow" result="shadow-1-feColorMatrix-shadow" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.5 0"/>
+    </filter>
+    <path id="path-10" fill-rule="evenodd" d="M14.81596932 8.99288162h46c1.65574508 0 3 1.34425492 3 3v64c0 1.65574507-1.34425492 3-3 3h-46c-1.65574507 0-3-1.34425493-3-3v-64c0-1.65574508 1.34425493-3 3-3z"/>
+    <filter id="filter-11" width="200%" height="200%" x="-50%" y="-50%" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0" in="SourceAlpha" result="shadow-1-feOffset-shadow"/>
+      <feGaussianBlur in="shadow-1-feOffset-shadow" result="shadow-1-feGaussianBlur-shadow" stdDeviation=".602"/>
+      <feColorMatrix in="shadow-1-feGaussianBlur-shadow" result="shadow-1-feColorMatrix-shadow" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.5 0"/>
+    </filter>
+  </defs>
+  <g>
+    <g transform="rotate(21.000008 63.81596932 42.99288162)">
+      <g>
+        <use fill="black" stroke="black" stroke-opacity="0" stroke-width="0" filter="url(#filter-2)" xlink:href="#path-1"/>
+        <use fill="rgb(255,255,255)" xlink:href="#path-1"/>
+      </g>
+      <path fill="rgb(0,0,0)" fill-rule="evenodd" d="M57.64930266 50.40954828c1.16666666 0 2.04166666-.29166666 2.91666666-.875v6.70833334h5.83333334v-6.70833334c.875.58333334 1.75.875 2.91666666.875 3.20833334 0 5.83333334-2.625 5.83333334-5.83333333 0-3.20833333-2.625-5.83333333-5.83333334-5.83333333h-.875c.58333334-.875.875-1.75.875-2.91666667 0-3.20833333-2.625-5.83333333-5.83333333-5.83333333-3.20833333 0-5.83333333 2.625-5.83333333 5.83333333 0 1.16666667.29166666 2.04166667.875 2.91666667h-.875c-3.20833334 0-5.83333334 2.625-5.83333334 5.83333333 0 3.20833333 2.625 5.83333333 5.83333334 5.83333333z"/>
+      <text font-size="0" style="white-space:pre">
+        <tspan x="78.304" y="20.993" fill="rgb(0,0,0)" font-family="American Typewriter" font-size="16" font-weight="400" style="white-space:pre;text-transform:none">A</tspan>
+      </text>
+      <text font-size="0" style="white-space:pre">
+        <tspan x="40.304" y="75.993" fill="rgb(0,0,0)" font-family="American Typewriter" font-size="16" font-weight="400" style="white-space:pre;text-transform:none">A</tspan>
+      </text>
+    </g>
+    <g transform="rotate(7.000002 55.07162696 40.90771824)">
+      <g>
+        <use fill="black" stroke="black" stroke-opacity="0" stroke-width="0" filter="url(#filter-5)" xlink:href="#path-4"/>
+        <use fill="rgb(255,255,255)" xlink:href="#path-4"/>
+      </g>
+      <path fill="rgb(186,41,38)" fill-rule="evenodd" d="M66.4049603 40.49105157L54.73829363 25.90771824 43.07162696 40.49105157 54.73829363 55.0743849 66.4049603 40.49105157z"/>
+      <text font-size="0" style="white-space:pre">
+        <tspan x="31.56" y="73.908" fill="rgb(186,41,38)" font-family="American Typewriter" font-size="16" font-weight="400" style="white-space:pre;text-transform:none">A</tspan>
+      </text>
+      <text font-size="0" style="white-space:pre">
+        <tspan x="69.56" y="18.908" fill="rgb(186,41,38)" font-family="American Typewriter" font-size="16" font-weight="400" style="white-space:pre;text-transform:none">A</tspan>
+      </text>
+    </g>
+    <g transform="rotate(-6.999874 46.07162696 40.90771824)">
+      <g>
+        <use fill="black" stroke="black" stroke-opacity="0" stroke-width="0" filter="url(#filter-8)" xlink:href="#path-7"/>
+        <use fill="rgb(255,255,255)" xlink:href="#path-7"/>
+      </g>
+      <path fill="rgb(0,0,0)" fill-rule="evenodd" d="M42.82162696 51.15771824v5.83333333h5.83333334v-5.83333333c5.83333333 0 8.75-3.20833334 8.75-8.75 0-6.41666667-5.83333334-8.75-11.66666667-17.5-5.83333333 8.75-11.66666667 11.08333333-11.66666667 17.5 0 5.54166666 2.91666667 8.75 8.75 8.75z"/>
+      <text font-size="0" style="white-space:pre">
+        <tspan x="22.56" y="73.908" fill="rgb(0,0,0)" font-family="American Typewriter" font-size="16" font-weight="400" style="white-space:pre;text-transform:none">A</tspan>
+      </text>
+      <text font-size="0" style="white-space:pre">
+        <tspan x="60.56" y="18.908" fill="rgb(0,0,0)" font-family="American Typewriter" font-size="16" font-weight="400" style="white-space:pre;text-transform:none">A</tspan>
+      </text>
+    </g>
+    <g transform="rotate(-20.999879 37.81596932 43.99288162)">
+      <g>
+        <use fill="black" stroke="black" stroke-opacity="0" stroke-width="0" filter="url(#filter-11)" xlink:href="#path-10"/>
+        <use fill="rgb(255,255,255)" xlink:href="#path-10"/>
+      </g>
+      <path fill="rgb(186,41,38)" fill-rule="evenodd" d="M37.48263599 55.32621495c7-5.25 11.66666667-11.375 11.66666667-15.45833333 0-4.375-3.20833334-7.875-7-7.875-1.75 0-3.5.875-4.66666667 2.04166666-1.16666667-1.16666666-2.91666667-2.04166666-4.66666667-2.04166666-3.79166666 0-7 3.5-7 7.875 0 4.08333333 4.66666667 10.20833333 11.66666667 15.45833333z"/>
+      <text font-size="0" style="white-space:pre">
+        <tspan x="14.304" y="76.993" fill="rgb(186,41,38)" font-family="American Typewriter" font-size="16" font-weight="400" style="white-space:pre;text-transform:none">A</tspan>
+      </text>
+      <text font-size="0" style="white-space:pre">
+        <tspan x="52.304" y="21.993" fill="rgb(186,41,38)" font-family="American Typewriter" font-size="16" font-weight="400" style="white-space:pre;text-transform:none">A</tspan>
+      </text>
+    </g>
+  </g>
+</svg>

@@ -3,6 +3,8 @@
 
   import { p1Total, p2Total, p1Hand, p2Hand } from "./store";
 
+  const cards = "cards.svg";
+
   p1Total.useLocalStorage();
   p2Total.useLocalStorage();
   p1Hand.useLocalStorage();
@@ -54,10 +56,14 @@
 
 <Tailwind />
 
-<div class="bg-gray-800 h-screen pt-10 pb-10">
-  <h1 class="text-white font-sans font-light text-center text-4xl mb-5">
-    Play Rummy
-  </h1>
+<div class="bg-gray-700 h-screen pt-10 pb-10">
+  <div class="flex flex-col justify-center items-center">
+    <img src={cards} alt="Cards" class="w-32 mb-5" />
+    <h1 class="text-white font-sans font-bold text-center text-4xl mb-5">
+      Svelte Rummy Score Keeper
+    </h1>
+  </div>
+
   <div class="container w-full max-w-2xl mx-auto flex flex-row">
     <div class="flex-1 mx-3">
       <p
