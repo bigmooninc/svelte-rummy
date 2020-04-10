@@ -118,7 +118,8 @@
     <a
       href="/"
       class="bg-black text-white text-base font-sans font-light px-8 py-3
-      rounded">
+      rounded"
+      on:click|preventDefault={reset}>
       Reset
     </a>
   </div>
