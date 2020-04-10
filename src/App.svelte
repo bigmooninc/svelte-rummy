@@ -1,7 +1,7 @@
 <script>
   import Tailwind from "./Tailwind.svelte";
 
-  import { p1Total, p2Total } from "./store";
+  import { p1Total, p2Total, p1Hand, p2Hand } from "./store";
 
   p1Total.useLocalStorage();
   p2Total.useLocalStorage();
@@ -12,19 +12,19 @@
   let p2HandScore = null;
   let p1ScoreInput;
   let p2ScoreInput;
-  let p1Hand = 0;
-  let p2Hand = 0;
+  // let p1Hand = 0;
+  // let p2Hand = 0;
 
   const handleAddP1Score = () => {
     $p1Total += p1HandScore;
-    p1Hand += 1;
+    $p1Hand += 1;
     p1HandScore = "";
     p2ScoreInput.focus();
   };
 
   const handleAddP2Score = () => {
     $p2Total += p2HandScore;
-    p2Hand += 1;
+    $p2Hand += 1;
     p2HandScore = "";
     p1ScoreInput.focus();
   };
@@ -32,8 +32,8 @@
   const reset = () => {
     $p1Total = 0;
     $p2Total = 0;
-    p1Hand = 1;
-    p2Hand = 1;
+    $p1Hand = 1;
+    $p2Hand = 1;
   };
 
   $: p1TotalScore = $p1Total;
