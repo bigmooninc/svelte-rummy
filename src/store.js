@@ -21,5 +21,5 @@ const createWritableStore = (key, startValue) => {
 
 export const p1Total = createWritableStore('p1Total', 0);
 export const p2Total = createWritableStore('p2Total', 0);
-export const p1Hand = createWritableStore('p1Hand', 1);
-export const p2Hand = createWritableStore('p2Hand', 1);
+export const p1Hand = createWritableStore('p1Hand', 0);
+export const p2Hand = createWritableStore('p2Hand', 0);
