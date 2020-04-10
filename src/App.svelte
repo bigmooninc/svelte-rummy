@@ -22,10 +22,6 @@
     p2ScoreInput.focus();
   };
 
-  // const updateP1Hand = () => {
-  //   p1Hand += 1;
-  // };
-
   const handleAddP2Score = () => {
     p2Total += p2HandScore;
     p2Hand += 1;
