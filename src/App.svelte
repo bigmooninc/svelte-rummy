@@ -71,7 +71,7 @@
       <p
         class="text-center font-sans font-light text-white opacity-75 my-3
         text-base">
-        Hands Played: {p1Hand}
+        Hands Played: {$p1Hand}
       </p>
       <div
         class="bg-gray-900 flex flex-col justify-center items-center rounded p-5">
@@ -102,7 +102,7 @@
       <p
         class="text-center font-sans font-light text-white opacity-75 my-3
         text-base">
-        Hands Played: {p2Hand}
+        Hands Played: {$p2Hand}
       </p>
       <div
         class="bg-gray-900 flex flex-col justify-center items-center rounded p-5">
