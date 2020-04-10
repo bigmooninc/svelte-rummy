@@ -30,8 +30,8 @@
   };
 
   const reset = () => {
-    p1Total = 0;
-    p2Total = 0;
+    $p1Total = 0;
+    $p2Total = 0;
     p1Hand = 1;
     p2Hand = 1;
   };
