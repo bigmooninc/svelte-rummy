@@ -1,7 +1,7 @@
 <script>
   import Tailwind from "./Tailwind.svelte";
 
-  import { p1Total, p2Total } from "store";
+  import { p1Total, p2Total } from "store.js";
 
   p1Total.useLocalStorage();
   p2Total.useLocalStorage();
