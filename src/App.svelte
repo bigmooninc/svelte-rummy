@@ -43,7 +43,12 @@
 </script>
 
 <style>
-
+  input {
+    border: none;
+  }
+  a {
+    color: white !important;
+  }
 </style>
 
 <Tailwind />
@@ -57,14 +62,14 @@
       <p
         class="font-sans font-light uppercase text-white text-center text-lg
         mb-3">
-        Aiden
+        Player 1
       </p>
       <form on:submit|preventDefault={handleAddP1Score}>
         <input
           bind:this={p1ScoreInput}
           bind:value={p1HandScore}
           type="number"
-          placeholder="Aiden's Score"
+          placeholder="Player 1 Score"
           class="text-center text-xl w-full block bg-gray-900 text-white rounded
           p-3 font-sans font-thin" />
       </form>
@@ -88,14 +93,14 @@
       <p
         class="font-sans font-light uppercase text-white text-center text-lg
         mb-3">
-        Dad
+        Player 2
       </p>
       <form on:submit|preventDefault={handleAddP2Score}>
         <input
           bind:this={p2ScoreInput}
           bind:value={p2HandScore}
           type="number"
-          placeholder="Dad's Score"
+          placeholder="Player 2 Score"
           class="text-center text-xl w-full block bg-gray-900 text-white rounded
           p-3 font-sans font-thin" />
       </form>
@@ -119,8 +124,8 @@
   <div class="flex justify-center items-center mt-5">
     <a
       href="/"
-      class="bg-black text-white text-base font-sans font-light px-8 py-3
-      rounded"
+      class="bg-gray-900 hover:bg-black text-base font-sans font-light px-8 py-3
+      rounded hover:no-underline transition-all duration-300"
       on:click|preventDefault={reset}>
       Reset
     </a>
