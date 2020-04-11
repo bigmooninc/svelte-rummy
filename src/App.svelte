@@ -10,14 +10,10 @@
   p1Hand.useLocalStorage();
   p2Hand.useLocalStorage();
 
-  // let p1Total = 0;
-  // let p2Total = 0;
   let p1HandScore = null;
   let p2HandScore = null;
   let p1ScoreInput;
   let p2ScoreInput;
-  // let p1Hand = 0;
-  // let p2Hand = 0;
 
   const handleAddP1Score = () => {
     $p1Total += p1HandScore;
